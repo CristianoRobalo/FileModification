@@ -16,5 +16,5 @@ Este programa abre um arquivo especificado pelo usuário. As modificações são
 arquivo original para que não haja risco do resultado não sair como esperado não possibilitando a recuperação do arquivo 
 original caso não exista uma cópia do mesmo.
 
-O usuário poderá escolhar também onde deve iniciar e onde deve terminar as modificações, informando o número da linha de 
+O usuário poderá escolher também onde deve iniciar e onde deve terminar as modificações, informando o número da linha de 
 início e fim.
